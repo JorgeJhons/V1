@@ -1,6 +1,21 @@
 body{
-background-color: aquamarine;
+    
 }
+
 .fondo-nav{
-background-color: black;
+    background-color: #0097A7;
+
+}
+.fondo-footer{
+    background-color: #0097A7;
+    
+    padding-top: 20px;
+ 
+}
+.parallax-container{
+	height: 100%;
+	background-color: black;
+}
+.fondo1{
+	background-color: white;
 }
